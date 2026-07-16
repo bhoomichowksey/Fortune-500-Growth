@@ -8,7 +8,7 @@ headcount, R&D spend, and market cap tracked year over year. The project answers
 questions an investor, strategy team, or analyst would actually ask — and backs every answer
 with a statistical test or a model, not just a chart.
 
-**[Live dashboard →](#)** *(fortune500-growth-analysis.streamlit.app)*
+**[Live dashboard →](#)** *(https://fortune500-growth-analysis.streamlit.app/)*
 
 ---
 
