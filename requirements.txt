@@ -1,0 +1,9 @@
+pandas>=2.2,<3.0
+numpy>=1.26,<2.3
+scipy>=1.11,<2.0
+statsmodels>=0.14,<0.15
+scikit-learn>=1.4,<1.9
+streamlit>=1.37,<2.0
+plotly>=5.20,<7.0
+prophet>=1.1.5,<1.4
+cmdstanpy>=1.2,<1.4

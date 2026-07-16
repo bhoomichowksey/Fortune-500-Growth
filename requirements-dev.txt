@@ -1,0 +1,8 @@
+# Only needed for local development / rebuilding the notebook.
+# Streamlit Cloud does NOT need this file — only requirements.txt.
+jupyter
+nbformat>=5.10,<6.0
+nbconvert>=7.16,<8.0
+ipykernel>=6.29,<8.0
+matplotlib>=3.8,<4.0
+seaborn>=0.13,<0.14
